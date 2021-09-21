@@ -1,4 +1,4 @@
-# Hello Github World! <img src="hello.gif" width="30"></h2>
+# Hello Github World! <img src="https://github.com/Shubham20015/Shubham20015/blob/main/assets/hello.gif" width="35"></h2>
 
 <p align="center">
 <img align="center" src="https://images.squarespace-cdn.com/content/v1/5e5ae71a84c054209740dee2/1599154214047-CKM89ZQMQTQBBUNCBYI3/090320_Final.gif" width="300">
@@ -24,7 +24,7 @@
 
 - ⚡ Fun fact **Prefer calling over chating**
 
-- 📝 [Resume](https://github.com/PtPrashantTripathi/ptprashanttripathi.github.io/blob/master/PtPrashantTripathi-CV.pdf)
+- 📝 [Resume](https://github.com/Shubham20015/Shubham20015/blob/main/assets/Shubham_CV.pdf)
 
 - 💬 Ask me about anything [here](https://github.com/Shubham20015/Shubham20015/issues/1)! I am happy to help.
 
