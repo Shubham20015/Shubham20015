@@ -26,7 +26,7 @@
 
 - 📝 [Resume](https://github.com/PtPrashantTripathi/ptprashanttripathi.github.io/blob/master/PtPrashantTripathi-CV.pdf)
 
-- 💬 Ask me about anything [here](https://github.com/PtPrashantTripathi/PtPrashantTripathi/issues/1)! I am happy to help.
+- 💬 Ask me about anything [here](https://github.com/Shubham20015/Shubham20015/issues/1)! I am happy to help.
 
 ### Languages and Tools:
 
